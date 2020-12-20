@@ -1,2 +1,2 @@
 - Programming Paradigms
-    - [What are Programming Paradigms?](what-are-programming-paradigms.md)
+    - [What are Programming Paradigms?](programming-paradigms/what-are-programming-paradigms.md)
