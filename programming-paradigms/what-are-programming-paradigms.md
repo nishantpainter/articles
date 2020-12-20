@@ -1,4 +1,6 @@
-# What are programming paradigms ? 
+# What are programming paradigms ?
+
+<img src='https://miro.medium.com/max/875/1*vgF9ILJmwUQg-Ux-u9FrCw.jpeg' height='400' alt='article-image' />
 
 Paradigms are patterns. We found patterns in every phase of our day to day environment. Whether it be eating, drinking, sleeping or any other part of our life, patterns will always be a part of it. Hence a pattern can be termed as something, a philosophy, idea, theory or method through which we approach certain actions. The same is the case around with programming.
 
