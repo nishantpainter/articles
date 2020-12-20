@@ -1,5 +1,7 @@
 # Imperative and Declarative Programming
 
+<img src='https://miro.medium.com/max/875/1*hNyDTwMiPqS_iHMCQsLWZA.jpeg' height='400' alt='article-image' />
+
 A program is a set of instructions that instruct the computer to perform a certain task. And [Programming Paradigm](what-are-programming-paradigms.md) are the styles of writing a computer program. Paradigms can be broadly classified into Imperative and Declarative programming based on how and what the computer is instructed to do.
 
 ## How and What ?
