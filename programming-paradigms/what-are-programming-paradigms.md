@@ -1,4 +1,4 @@
-# What are programming paradigms ?
+# What are Programming Paradigms ?
 
 <img src='https://miro.medium.com/max/875/1*vgF9ILJmwUQg-Ux-u9FrCw.jpeg' height='400' alt='article-image' />
 
