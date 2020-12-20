@@ -1,0 +1,2 @@
+- Programming Paradigms
+    - [What are Programming Paradigms?](what-are-programming-paradigms.md)
