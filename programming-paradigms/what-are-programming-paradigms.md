@@ -15,4 +15,5 @@ We have patterns when we are writing a letter, a resume, a legal notice etc. It 
 ## Is there only a single programming paradigm ?
 
 Well your friend won’t be asking you to write the same things over and over again. Like that the problem we are and will be dealing will not be the same. And in order to solve different problems we will need to have a different programming paradigm. Depending on the solving a problem or solution we need to implement, we can apply a programming paradigm to it.
+
 And how programming paradigms are classified then ? It depends on different factors like sequence of operations, how the code is organised in groups, style of syntax and grammar and many other things. So depending on the problem you need to solve, you can select a programming paradigm followed by a programming language.
