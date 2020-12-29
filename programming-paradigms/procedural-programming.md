@@ -17,3 +17,6 @@ procedure print_squares(list_of_integer){
 ```
 
 Note : The above construct doesn’t belong to any programming language and it’s used for explanatory purpose only.
+
+## Block and Scope
+
