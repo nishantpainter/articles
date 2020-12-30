@@ -20,3 +20,4 @@ Note : The above construct doesnâ€™t belong to any programming language and itâ€
 
 ## Block and Scope
 
+Procedure depends on block and scope for performing its functionality. A `block` is a structure that groups a set of computer instructions. In the above example, the opening parenthesis and the closing parenthesis forms a block.
