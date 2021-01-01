@@ -27,3 +27,5 @@ procedure print_squares(list_of_integer){ <- Block starts ->
    ...   
 } <- Block ends ->
 ```
+
+A `scope` associates a `value` to a `variable` in some part of the program or `block`. The `name` of the variable can be then used to refer to the value associated with it in that block. Where-else in other blocks of the same program the same name of the variable can refer to some other value or no value at all.
