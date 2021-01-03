@@ -40,3 +40,5 @@ procedure print_decimal_number(){
     number ten = 10.00
 }
 ```
+
+`Block` and `Scope` allow us to group the instructions required for a procedure to perform tasks and to avoid conflict of the variables.
