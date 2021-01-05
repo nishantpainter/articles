@@ -44,3 +44,5 @@ procedure print_decimal_number(){
 `Block` and `Scope` allow us to group the instructions required for a procedure to perform tasks and to avoid conflict of the variables.
 
 ## Difference between Procedural and [Function](https://medium.com/swlh/functional-programming-845160953da4)
+
+Procedure or Function can be used interchangeably to specify a group of computer instructions. However, they have differences in implementation when we consider the philosophy of given a paradigm.
