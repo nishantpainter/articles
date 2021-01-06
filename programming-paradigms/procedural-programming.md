@@ -46,3 +46,5 @@ procedure print_decimal_number(){
 ## Difference between Procedural and [Function](https://medium.com/swlh/functional-programming-845160953da4)
 
 Procedure or Function can be used interchangeably to specify a group of computer instructions. However, they have differences in implementation when we consider the philosophy of given a paradigm.
+
+In procedural programming, one can change or mutate the value of the argument passed to a procedure. Functional programming on the other hand restricts the mutation of value and emphasis on returning new value with the changes required.
