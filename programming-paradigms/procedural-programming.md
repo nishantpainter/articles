@@ -48,3 +48,5 @@ procedure print_decimal_number(){
 Procedure or Function can be used interchangeably to specify a group of computer instructions. However, they have differences in implementation when we consider the philosophy of given a paradigm.
 
 In procedural programming, one can change or mutate the value of the argument passed to a procedure. Functional programming on the other hand restricts the mutation of value and emphasis on returning new value with the changes required.
+
+Procedures in programs can share variables and depend on each other. While in functional programming the value is usually not shared and the dependencies exist between functions based on the argument passed to the function and the value returned from the function. In this manner, functions have free order of execution while the procedures don’t.
