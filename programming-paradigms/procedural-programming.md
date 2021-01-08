@@ -50,3 +50,5 @@ Procedure or Function can be used interchangeably to specify a group of computer
 In procedural programming, one can change or mutate the value of the argument passed to a procedure. Functional programming on the other hand restricts the mutation of value and emphasis on returning new value with the changes required.
 
 Procedures in programs can share variables and depend on each other. While in functional programming the value is usually not shared and the dependencies exist between functions based on the argument passed to the function and the value returned from the function. In this manner, functions have free order of execution while the procedures don’t.
+
+Procedure can have [side-effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science)#:~:text=In%20computer%20science%2C%20an%20operation,the%20invoker%20of%20the%20operation.) within them while a function should not have a side-effect and must be pure.
