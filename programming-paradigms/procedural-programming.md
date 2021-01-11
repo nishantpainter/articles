@@ -54,3 +54,5 @@ Procedures in programs can share variables and depend on each other. While in fu
 Procedure can have [side-effect](https://en.wikipedia.org/wiki/Side_effect_(computer_science)#:~:text=In%20computer%20science%2C%20an%20operation,the%20invoker%20of%20the%20operation.) within them while a function should not have a side-effect and must be pure.
 
 Procedures cannot be passed as an argument (first-class-citizen) to other procedures. Functions can be passed as an argument to other functions and can be returned from a function.
+
+## Summary
