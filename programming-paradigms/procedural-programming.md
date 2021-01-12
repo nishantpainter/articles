@@ -56,3 +56,5 @@ Procedure can have [side-effect](https://en.wikipedia.org/wiki/Side_effect_(comp
 Procedures cannot be passed as an argument (first-class-citizen) to other procedures. Functions can be passed as an argument to other functions and can be returned from a function.
 
 ## Summary
+
+Procedural paradigm is normally used for general-purpose programming. It is usually the first paradigm practice that a new developer gets gripped onto. There are several advantages of this approach which includes, ease of implementation, modularity and simple program flow. However, there are certain limitations of procedure which one might need to consider first hand, that includes, difficulties to trace mutation of value, strict order of execution due to state sharing, data is not restricted and can be changed anywhere in the program.
