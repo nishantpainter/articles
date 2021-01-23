@@ -8,4 +8,4 @@ In a computer program, control flow is the order in which set instructions are e
 
 'GOTO LABEL;'
 
-Goto performs one-way transfer of control which means the control is not expected to return after executing the labelled instructions set.
+Goto performs one-way transfer of control which means the control is not expected to return after executing the labelled instructions set. On the contrary, calling a Function usually returns the control after execution. In earlier programming, goto statements were used extensively. However, with increasing complexity it becomes harder to maintain computer programs because goto resulted in non-linear change of control flow which was harder to understand compared to linear transfer.
