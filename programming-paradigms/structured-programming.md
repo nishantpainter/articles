@@ -10,4 +10,4 @@ In a computer program, control flow is the order in which set instructions are e
 
 Goto performs one-way transfer of control which means the control is not expected to return after executing the labelled instructions set. On the contrary, calling a [Function](functional-programming.md) usually returns the control after execution. In earlier programming, goto statements were used extensively. However, with increasing complexity it becomes harder to maintain computer programs because goto resulted in non-linear change of control flow which was harder to understand compared to linear transfer.
 
-Dijkstra was one of the first persons to criticise the use of goto, arguing about errors and poor structure imposed by using it.
+Dijkstra was one of the first persons to criticise the use of goto, arguing about errors and poor structure imposed by using it. He proposed the use of linear control flow transfer under high discipline, thereby eliminating the use of goto in programming and Spaghetti Code caused by goto.
