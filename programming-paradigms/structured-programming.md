@@ -13,3 +13,5 @@ Goto performs one-way transfer of control which means the control is not expecte
 [Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) was one of the first persons to criticise the use of goto, arguing about errors and poor structure imposed by using it. He proposed the use of linear control flow transfer under high discipline, thereby eliminating the use of goto in programming and [Spaghetti Code](https://en.wikipedia.org/wiki/Spaghetti_code) caused by goto. This is considered to be an important movement in the history of computer programming and accepted as the beginning of a new Programming paradigm, Structured Programming. It is a paradigm focusing on improving the clarity, control, quality and maintainability of a computer program by making use of disciplined structures.
 
 ## Elements of Structured Programming
+
+Structured programming divides a program into simple elements which in-turn can also contain other such elements.
