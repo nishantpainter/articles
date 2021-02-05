@@ -15,3 +15,5 @@ Goto performs one-way transfer of control which means the control is not expecte
 ## Elements of Structured Programming
 
 Structured programming divides a program into simple elements which in-turn can also contain other such elements. These are the building blocks of a structured program.
+
+### Blocks
