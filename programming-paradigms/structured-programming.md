@@ -17,3 +17,5 @@ Goto performs one-way transfer of control which means the control is not expecte
 Structured programming divides a program into simple elements which in-turn can also contain other such elements. These are the building blocks of a structured program.
 
 ### Blocks
+
+It is a style of grouping multiple instructions that looks like a single instruction statement. Block also helps in defining the scope of variables to avoid conflicts with other similarly named variables in the instruction set. 
