@@ -18,4 +18,4 @@ Structured programming divides a program into simple elements which in-turn can 
 
 ### Blocks
 
-It is a style of grouping multiple instructions that looks like a single instruction statement. Block also helps in defining the scope of variables to avoid conflicts with other similarly named variables in the instruction set. 
+It is a style of grouping multiple instructions that looks like a single instruction statement. Block also helps in defining the scope of variables to avoid conflicts with other similarly named variables in the instruction set. They have an enclosing structure usually defined by keywords such as begin...end, if...fi etc. Some language supports the use of curly braces {...} to define a block.
