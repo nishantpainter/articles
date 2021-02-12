@@ -25,3 +25,5 @@ It is a style of grouping multiple instructions that looks like a single instruc
 It allows breaking the program into small modular sets of instructions that perform specific tasks. These modules are called subroutines or functions. They invoke each other internally in specific order to get expected results. They provide re-usability of logic.
 
 ### Control Structures 
+
+It enables the control of program flow to determine the execution of instruction in a certain manner.
