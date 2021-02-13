@@ -26,4 +26,4 @@ It allows breaking the program into small modular sets of instructions that perf
 
 ### Control Structures 
 
-It enables the control of program flow to determine the execution of instruction in a certain manner.
+It enables the control of program flow to determine the execution of instruction in a certain manner. The three main category of control structure are as follows :
