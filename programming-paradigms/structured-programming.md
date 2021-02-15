@@ -29,3 +29,5 @@ It allows breaking the program into small modular sets of instructions that perf
 It enables the control of program flow to determine the execution of instruction in a certain manner. The three main category of control structure are as follows :
 
 Sequence : Providing a sequence of instructions to allow the computer execute them in the provided order for achieving results.
+
+Selection : Allowing the selection of a flow from the list of available flow. This is usually done based on some condition that is evaluated to decide the next executing flow of a program. Keywords such as if...else expresses selection.
