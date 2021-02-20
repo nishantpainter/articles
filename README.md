@@ -8,3 +8,6 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Functional Programming](programming-paradigms/functional-programming.md)
 - [Procedural Programming](programming-paradigms/procedural-programming.md)
 - [Structured Programming](programming-paradigms/structured-programming.md)
+
+## Functional Programming
+- [Abstraction](functional-programming/abstraction.md)
