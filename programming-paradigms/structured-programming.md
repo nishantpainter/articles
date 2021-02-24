@@ -38,4 +38,6 @@ Recursion : Similar to iteration, an instruction set calls itself until the cond
 
 ### Structured Programming Languages
 
+Some of the initially developed languages adhering to structure programming includes ALGOL, Pascal, PL/I, Ada, FORTRAN. Almost all of the high level programming languages support structured programming including C, JAVA, C++, Python etc.
+
 
