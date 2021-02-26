@@ -11,3 +11,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 
 ## Functional Programming
 - [Abstraction](functional-programming/abstraction.md)
+- [Composition](functional-programming/composition.md)
