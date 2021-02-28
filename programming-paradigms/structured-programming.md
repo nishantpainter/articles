@@ -41,3 +41,5 @@ Recursion : Similar to iteration, an instruction set calls itself until the cond
 Some of the initially developed languages adhering to structure programming includes ALGOL, Pascal, PL/I, Ada, FORTRAN. Almost all of the high level programming languages support structured programming including C, JAVA, C++, Python etc.
 
 ### Advantages and Disadvantages
+
+Structure programming improves readability and maintainability of programs. It provides modularity and re-usability by making use of functions and subroutines. Improves design and productivity during the development phase.
