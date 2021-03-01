@@ -43,3 +43,5 @@ Some of the initially developed languages adhering to structure programming incl
 ### Advantages and Disadvantages
 
 Structure programming improves readability and maintainability of programs. It provides modularity and re-usability by making use of functions and subroutines. Improves design and productivity during the development phase.
+
+Since the structure program adheres to strict discipline, a small change will have to be propagated to many parts of the program. It uses a large amount of memory to execute calling procedures, subroutines and functions and to maintain the information using system resources.
