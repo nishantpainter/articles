@@ -13,3 +13,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Abstraction](functional-programming/abstraction.md)
 - [Composition](functional-programming/composition.md)
 - [Pure Function](functional-programming/pure-function.md)
+- [Currying](functional-programming/currying.md)
