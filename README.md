@@ -14,3 +14,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Composition](functional-programming/composition.md)
 - [Pure Function](functional-programming/pure-function.md)
 - [Currying](functional-programming/currying.md)
+- [Recursion](functional-programming/recursion.md)
