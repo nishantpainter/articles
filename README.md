@@ -18,3 +18,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Currying](functional-programming/currying.md)
 - [Recursion](functional-programming/recursion.md)
 - [First Class Function](functional-programming/first-class-function.md)
+- [Tail Call Optimization](functional-programming/tail-call-optimization.md)
