@@ -21,3 +21,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Tail Call Optimization](functional-programming/tail-call-optimization.md)
 - [Higher Order Function](functional-programming/higher-order-function.md)
 - [Arity](functional-programming/arity.md)
+- [Referential Transparency](functional-programming/referential-transparency.md)
