@@ -23,3 +23,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Arity](functional-programming/arity.md)
 - [Referential Transparency](functional-programming/referential-transparency.md)
 - [Immutability](functional-programming/immutability.md)
+- [Shared State](functional-programming/shared-state.md)
