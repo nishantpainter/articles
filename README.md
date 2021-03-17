@@ -24,3 +24,4 @@ Browse through and explore computer and programing concepts in simple and easy t
 - [Referential Transparency](functional-programming/referential-transparency.md)
 - [Immutability](functional-programming/immutability.md)
 - [Shared State](functional-programming/shared-state.md)
+- [Side Effect](functional-programming/side-effect.md)
